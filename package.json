@@ -1,0 +1,23 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Landing page for natours",
+  "main": "index.js",
+  "author": "Noah van Boven and Jonas",
+  "license": "MIT",
+  "scripts": {
+    "start": "gulp watchsass",
+    "build": "gulp"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.4.4",
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.11.0",
+    "postcss-cli": "^6.1.1"
+  }
+}
