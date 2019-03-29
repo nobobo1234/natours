@@ -10,7 +10,7 @@
     "build": "gulp"
   },
   "devDependencies": {
-    "autoprefixer": "^9.4.4",
+    "autoprefixer": "^9.5.0",
     "browser-sync": "^2.26.3",
     "gulp": "^4.0.0",
     "gulp-autoprefixer": "^6.0.0",
